@@ -1,0 +1,6 @@
+# When the requirements file is invoke, setup.py will automatically be invoked due to the -e .
+pandas
+numpy
+seaborn
+# This help to trigger setup.py
+-e .
