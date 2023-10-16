@@ -1,5 +1,5 @@
 import sys # provides variables and func to manipulate parts of a python runtime. It helps identify the source of an error and other details
-import logging
+from src.logger import logging
 
 
 
@@ -23,3 +23,5 @@ class CustomException(Exception):
 # A function to return the error message
     def __str__(self):
         return self.error_message
+
+    
