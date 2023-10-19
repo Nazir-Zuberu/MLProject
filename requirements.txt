@@ -6,5 +6,6 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # This help to trigger setup.py
--e .
+#-e .
