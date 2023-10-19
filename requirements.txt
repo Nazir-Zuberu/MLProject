@@ -7,5 +7,6 @@ scikit-learn
 catboost
 xgboost
 dill
+ada-boost
 # This help to trigger setup.py
 #-e .
