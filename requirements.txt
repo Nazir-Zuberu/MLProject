@@ -8,5 +8,6 @@ catboost
 xgboost
 dill
 ada-boost
+Flask
 # This help to trigger setup.py
 #-e .
